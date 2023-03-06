@@ -3,7 +3,7 @@
 
 
 
- ![DariaUtianskaia]([/img/DariaUtianskaia.jpg "Daria Utianskaia") 
+ ![DariaUtianskaia](/img/DariaUtianskaia.jpg "Daria Utianskaia") 
 
 
 
@@ -41,6 +41,7 @@ GitHub       |Creativity
 
 
 ## **Code example**
+****
 `function check(a, x) {
 
 
@@ -69,11 +70,11 @@ You can find examples of my work in my *[portfolio](linluoluo1.github.io/Portfol
 ## **Education**
 ****
 
-* Russian University of Transport RUT(MIIT) - Civil engineer - 2014-2019| Moscow
-* Russian University of Transport RUT(MIIT) - Translator- 2016-2018| Moscow
-* Harvard University – CS50 course - 2022 | online
-* JetBrains Academy – Frontend Core - 2021 | online
-* Basic JavaScript - freeCodeCamp - 2023 | online
+* Russian University of Transport RUT(MIIT) - Civil engineer - 2014-2019 / Moscow
+* Russian University of Transport RUT(MIIT) - Translator- 2016-2018 / Moscow
+* Harvard University – CS50 course - 2022 / online
+* JetBrains Academy – Frontend Core - 2021 / online
+* Basic JavaScript - freeCodeCamp - 2023 / online
 * ReactJS - freeCodeCamp - in progress
 * SQL - itProger - in progress
 * TypeScript - in progress
