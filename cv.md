@@ -3,7 +3,7 @@
 
 
 
- ![DariaUtianskaia](/img/DariaUtianskaia.jpg "Daria Utianskaia") 
+ ![DariaUtianskaia](https://linluoluo1.github.io/Portfolio/img/AuthorPhoto.png "Daria Utianskaia") 
 
 
 
@@ -64,7 +64,7 @@ from scratch. Code refactoring. Coordination of work with the backend developer 
 Improvement of time management within the project due to using a project-management system.
 Enhancement of performance because of using Tailwind. 
 Migrate the platform to ReactJS. In process of working learned to take responsibility for my code.
-You can find examples of my work in my *[portfolio](linluoluo1.github.io/Portfolio/)*
+You can find examples of my work in my *[portfolio](https://linluoluo1.github.io/Portfolio/)*
 
 
 ## **Education**
