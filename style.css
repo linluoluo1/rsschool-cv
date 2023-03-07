@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: whitesmoke;
+  font-family: "Glock", serif;
+  height: 100px;
+  width: 100vw;
+  background-image: radial-gradient(
+    circle,
+    #280537,
+    #591331,
+    #73372a,
+    #7b6033,
+    #788757
+  );
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
