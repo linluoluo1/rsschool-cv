@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+    font-family: "Glock", serif;
 }
 
 .header {
@@ -8,7 +9,6 @@ body {
   justify-content: center;
   align-items: center;
   color: whitesmoke;
-  font-family: "Glock", serif;
   height: 100px;
   width: 100vw;
   background-image: radial-gradient(
@@ -26,4 +26,10 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.summary{
+  text-align: center;
+  width: 70%;
+  font-size: 2rem;
 }
